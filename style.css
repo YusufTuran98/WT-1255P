@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.orta-bolum{
+    height: 600px;
+    width: 400px;
+    background-color: #198754;
+}
